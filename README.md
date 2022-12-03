@@ -12,5 +12,9 @@ medicintekniska produkter enligt nya MDR.
 Tänkte att man kunde göra ett program av det hela istället och började programmera ett program i Java istället. 
 
 
-<b>Python</b>: <br> 
-Kurser på Udemy. 
+<b>Udemy</b>: <br> 
+Kurser på Udemy i python
+
+<b>Advent Of Code</b> <br>
+Advent of code. 
+Löser problemen med Python.
