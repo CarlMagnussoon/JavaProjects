@@ -19,5 +19,5 @@ Kurser på Udemy i python
 Advent of code. 
 Löser problemen med Python.
 
-<Databricks Notebook>
+<b>Databricks Notebook</b> <br>
 Lekt runt lite i databricks och kört både SQL samt lite Apache Spark.
