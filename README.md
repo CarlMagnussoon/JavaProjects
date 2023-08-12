@@ -11,6 +11,9 @@ Under tiden som konsult på Complyit fick jag ett projekt att ta fram ett Excel-
 medicintekniska produkter enligt nya MDR.
 Tänkte att man kunde göra ett program av det hela istället och började programmera ett program i Java istället. 
 
+<b> Golf_GameBook </b>: <br>
+Tröttnade på att Golf Gamebook låst en del av sina spelmodes etc. 
+Så påbörjat en app som ska efterapa Golf Gamebook. 
 
 <b>Udemy</b>: <br> 
 Kurser på Udemy i python
