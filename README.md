@@ -16,9 +16,9 @@ Tröttnade på att Golf Gamebook låst en del av sina spelmodes etc.
 Så påbörjat en app som ska efterapa Golf Gamebook. 
 
 <b>Football Analytics</b> <br>
-Leker runt med datan i Playmakers AIs repo. 
-2 script än så länge: 
-Beräknar lags effektivitet på borta resp. hemmaplan. 
+Leker runt med datan i Playmakers AIs repo. <br>
+2 script än så länge:  <br>
+Beräknar lags effektivitet på borta resp. hemmaplan.  <br>
 Tar fram en xG-tabell. 
 
 <b>Udemy</b>: <br> 
